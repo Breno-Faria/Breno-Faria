@@ -2,7 +2,7 @@
 
 ### I’m a software developer and math enthusiast passionate about making things work behind the scenes. I believe scalability is a pillar of high-quality software development and always strive to incorporate it into my work.
 
-## 👨‍💻 What I Do  
+## 👨‍💻 About me
 - 🎓 **Computer Science Co-op Student**  
 - 👨‍💻 **Software Developer**
 - 📚 **Math Tutor**  
