@@ -14,7 +14,7 @@
 - Self-hosting and server management
 - Reverse proxy configuration
 
-## 💡 More about me
+## 💡 My digital footprint
 📩 **Email:** mail@brenofaria.com  
 🌐 **Portfolio:** [brenofaria.com](https://brenofaria.com)  
 💼 **LinkedIn:** [linkedin.com/in/brenofaria](https://linkedin.com/in/brenofaria)  
