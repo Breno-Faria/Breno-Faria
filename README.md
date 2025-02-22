@@ -18,4 +18,4 @@
 📩 **Email:** mail@brenofaria.com  
 🌐 **Portfolio:** [brenofaria.com](https://brenofaria.com)  
 💼 **LinkedIn:** [linkedin.com/in/brenofaria](https://linkedin.com/in/brenofaria)  
-📄 **Resume:** [brenofaria.com/resume](https://brenofaria.com/assets/resume.pdf)
+📄 **Resume:** [brenofaria.com/resume](https://brenofaria.com/resume.pdf)
