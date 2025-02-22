@@ -1,22 +1,29 @@
-# 📌 Breno Faria  
-👨‍💻 **Software Developer | Math Enthusiast | Problem Solver**  
+# Hi there, I'm **Breno**! 👋
+
+### I’m a software developer and math enthusiast passionate about making things work behind the scenes. I believe scalability is a pillar of high-quality software development and always strive to incorporate it into my work.
 
 ---
+<hgroup>
 
-## 🏆 About Me  
-Hi there! I’m **Breno**, a software developer and math enthusiast passionate about making things work behind the scenes. I believe scalability is a pillar of high-quality software development and always strive to incorporate it into my work.
-
-- 💻 **Currently:** Studying **Computer Science** at Concordia University (Co-op Program)  
-- 🏢 **Previous Experience:** Software Developer Intern at **Flexspring** & **Federal Highway Police (Brazil)**  
-- 🏗 **Projects:** From **data scrapers** to **progressive web apps**, I enjoy working on impactful software solutions.  
-- 🔥 **Interests:** Backend development, system design, automation, and database optimization.  
-
----
+<p>🎓 Computer science co-op student at Concordia University </p>
+<p>👨‍💻 Software developer </p>
+<p>👨‍💻 Software developer </p>
+</hgroup>
 
 
-## 📬 Let's Connect!  
+- 
+
+🌱 🔥
+
+### 💻 Currently learning
+- building APIs with Golang
+- self-hosting
+- reverse proxy
+
+
+
+## 💡 More about me
 📩 **Email:** mail@brenofaria.com  
-🔗 **Portfolio:** [brenofaria.com](https://brenofaria.com)  
+🌐 **Portfolio:** [brenofaria.com](https://brenofaria.com)  
 💼 **LinkedIn:** [linkedin.com/in/brenofaria](https://linkedin.com/in/brenofaria)  
-🐙 **GitHub:** [github.com/breno-faria](https://github.com/breno-faria)  
 📄 **Resume:** [brenofaria.com/resume](https://brenofaria.com/assets/resume.pdf)
