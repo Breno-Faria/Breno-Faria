@@ -18,5 +18,5 @@ Hi there! I’m **Breno**, a software developer and math enthusiast passionate a
 📩 **Email:** mail@brenofaria.com  
 🔗 **Portfolio:** [brenofaria.com](https://brenofaria.com)  
 💼 **LinkedIn:** [linkedin.com/in/brenofaria](https://linkedin.com/in/brenofaria)  
-🐙 **GitHub:** [github.com/breno-faria](https://github.com/breno-faria)
+🐙 **GitHub:** [github.com/breno-faria](https://github.com/breno-faria)  
 📄 **Resume:** [brenofaria.com/resume](https://brenofaria.com/assets/resume.pdf)
