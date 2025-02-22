@@ -10,11 +10,9 @@
 
 
 ## 🌱 Currently learning
-- building APIs with Golang
-- self-hosting
-- reverse proxy
-
-
+- High-performance API development with Golang
+- Self-hosting and server management
+- Reverse proxy configuration
 
 ## 💡 More about me
 📩 **Email:** mail@brenofaria.com  
