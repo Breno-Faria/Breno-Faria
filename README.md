@@ -2,20 +2,14 @@
 
 ### I’m a software developer and math enthusiast passionate about making things work behind the scenes. I believe scalability is a pillar of high-quality software development and always strive to incorporate it into my work.
 
----
-<hgroup>
-
-<p>🎓 Computer science co-op student at Concordia University </p>
-<p>👨‍💻 Software developer </p>
-<p>👨‍💻 Software developer </p>
-</hgroup>
+## 👨‍💻 What I Do  
+- 🎓 **Computer Science Co-op Student**  
+- 👨‍💻 **Software Developer**
+- 📚 **Math Tutor**  
+- 🏂 **Snowboarder**
 
 
-- 
-
-🌱 🔥
-
-### 💻 Currently learning
+## 🌱 Currently learning
 - building APIs with Golang
 - self-hosting
 - reverse proxy
